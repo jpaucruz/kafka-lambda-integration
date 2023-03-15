@@ -1,0 +1,77 @@
+{
+   "cardId": 10001,
+   "type": 4,
+   "cardMovements": [
+      {
+         "ID": 10003,
+         "CARD_ID": 10001,
+         "SOURCE": "B035",
+         "TERMINAL_ID": "0003",
+         "DESCRIPTION": "AliExpress",
+         "AMOUNT": 39.56711532092267,
+         "ORDERED_AT": 1678272017946000,
+         "EXECUTED_AT": 1678272014829000
+      },
+      {
+         "ID": 10004,
+         "CARD_ID": 10001,
+         "SOURCE": "C876",
+         "TERMINAL_ID": "0003",
+         "DESCRIPTION": "Taxi",
+         "AMOUNT": 11.091753345545406,
+         "ORDERED_AT": 1678272018132000,
+         "EXECUTED_AT": 1678272011532000
+      },
+      {
+         "ID": 10005,
+         "CARD_ID": 10001,
+         "SOURCE": "AA01",
+         "TERMINAL_ID": "0001",
+         "DESCRIPTION": "Paypal *hbo",
+         "AMOUNT": 52.77469173456193,
+         "ORDERED_AT": 1678272020640000,
+         "EXECUTED_AT": 1678272015369000
+      },
+      {
+         "ID": 10006,
+         "CARD_ID": 10001,
+         "SOURCE": "AA00",
+         "TERMINAL_ID": "0001",
+         "DESCRIPTION": "AliExpress",
+         "AMOUNT": 33.9627277658773,
+         "ORDERED_AT": 1678272022253000,
+         "EXECUTED_AT": 1678272031075000
+      },
+      {
+         "ID": 10007,
+         "CARD_ID": 10001,
+         "SOURCE": "AA01",
+         "TERMINAL_ID": "0003",
+         "DESCRIPTION": "Cine",
+         "AMOUNT": 58.46305155949193,
+         "ORDERED_AT": 1678272023875000,
+         "EXECUTED_AT": 1678272018222000
+      },
+      {
+         "ID": 10008,
+         "CARD_ID": 10001,
+         "SOURCE": "AA00",
+         "TERMINAL_ID": "0002",
+         "DESCRIPTION": "Burger King",
+         "AMOUNT": 27.760805282571017,
+         "ORDERED_AT": 1678272023886000,
+         "EXECUTED_AT": 1678272023034000
+      },
+      {
+         "ID": 10009,
+         "CARD_ID": 10001,
+         "SOURCE": "AA01",
+         "TERMINAL_ID": "0003",
+         "DESCRIPTION": "Amazon",
+         "AMOUNT": 1.8034757302174063,
+         "ORDERED_AT": 1678272025647000,
+         "EXECUTED_AT": 1678272019224000
+      }
+   ],
+   "timestamp": 1678272018732
+}
